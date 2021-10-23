@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sstack.h": "c",
+        "inc.h": "c",
+        "defs.h": "c"
+    }
+}
